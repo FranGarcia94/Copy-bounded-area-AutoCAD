@@ -1,4 +1,6 @@
 # Copy-bounded-area-AutoCAD
+![AutoCAD_version](https://img.shields.io/badge/version-S.51.0.0%20AutoCAD%202022-brightgreen)
+<br></br>
 Copy the area bounded by a polygon and everything inside it, to paste into a new file
 
 The code is divided into two parts, one to copy the entities and another part where the original coordinates are pasted into a new drawing. This code is intended for a large drawing with a grid structure where the drawing is formed by polygonal subdivisions of it.
