@@ -61,6 +61,7 @@ In this context, if you want to save certain parts of the drawing separately and
 To upload the files you have to access the 'Manage' tab on the toolbar and within this select upload application.
 ![image](https://user-images.githubusercontent.com/107102754/175130329-33fe7969-919f-4d0e-9519-e09e79b07df6.png)
 A pop-up window like this will open:
+
 ![image](https://user-images.githubusercontent.com/107102754/175130421-798ce312-8ee8-4f4c-bd2c-899e367fb22f.png)
 
 There we look for the folder where the '.lsp' files that we have created are located and press load. If everything went well, the box below will show that the action has been successful.
